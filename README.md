@@ -38,8 +38,8 @@ A smart energy management system that uses AI to forecast energy consumption and
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Irisss142/Binjai-Kingdom.git
-cd Binjai-Kingdom
+git clone https://github.com/Irisss142/PSA_codesprint_2024.git
+cd PSA_codesprint_2024
 ```
 
 ### Environment Variables
